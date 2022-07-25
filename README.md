@@ -1,0 +1,2 @@
+# SeleniumLocators
+All Selenium Locators
